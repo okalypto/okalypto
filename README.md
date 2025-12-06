@@ -1,4 +1,5 @@
 ## Hi there 👋
+# im okalypto a french student, im currently learning.
 <!--
 **okalypto/okalypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
